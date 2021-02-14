@@ -1,5 +1,5 @@
 # Data frames.
-*Implementation of some of the objects in Pandas.*
+*Pandas-like Dataframe and Series.*
 ## Use
 
 - Provide data as dictionary
